@@ -1,4 +1,4 @@
-# 📚 Repository Name (Option 1)
+# 📚 Scientific RAG Assistant
 
 ## 🧠 Self-RAG: Retrieval-Augmented Generation with Self-Reflection
 
@@ -63,10 +63,6 @@ git clone https://github.com/your-username/repository-name.git
 cd repository-name
 ```
 
-### Install dependencies
-```bash
-pip install -r requirements.txt
-```
 
 ### Launch notebook
 ```bash
@@ -102,8 +98,3 @@ Self-RAG improves traditional RAG by enabling models to:
 
 Result: more grounded and reliable LLM systems.
 
----
-
-## 📜 License
-
-MIT License (or specify your preferred license)
